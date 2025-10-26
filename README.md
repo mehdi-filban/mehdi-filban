@@ -11,7 +11,7 @@
 <h3> 💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions to our worlds tech problems.
-- 🎓 &nbsp; Studying Software Enginering
+- 🎓 &nbsp; studied Software Enginering
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
