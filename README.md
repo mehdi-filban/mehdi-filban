@@ -42,12 +42,11 @@
   ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 
 
-<p>
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cdthomp1&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cdthomp1&theme=radical&layout=compact&exclude_lang=java+r" />
-</a>
-</p>
+### 📊 My GitHub Stats
+
+![Mehdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehdi-filban&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehdi-filban&layout=compact&theme=radical)
+
 
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
