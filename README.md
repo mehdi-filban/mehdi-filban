@@ -21,7 +21,6 @@
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 - 🛢 &nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
@@ -35,7 +34,6 @@
 <h3> 🚀 Other Frameworks & Library</h3>
   -  &nbsp;
   
-  ![THREEJS](https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white)
   ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
   ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
   ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
@@ -45,7 +43,7 @@
 ### 📊 My GitHub Stats
 
 ![Mehdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehdi-filban&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehdi-filban&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehdi-filban&layout=compact&theme=radical) 
 
 
 
