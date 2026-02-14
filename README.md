@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="YOUR_EXISTING_GIF_LINK" width="100%" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Mehdi 👋</h1>
@@ -57,12 +57,19 @@ Custom-built system for workflow management and approval tracking.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehdi-filban&show_icons=true&theme=default&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=mehdi-filban&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&cache_seconds=21600"
+    alt="Mehdi Filban GitHub stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehdi-filban&layout=compact&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehdi-filban&layout=compact&hide_border=true&langs_count=8&cache_seconds=21600"
+    alt="Top languages"
+  />
 </p>
+
 
 ---
 
