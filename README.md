@@ -48,11 +48,6 @@ React • Redux Toolkit • Tailwind
 
 ---
 
-### 📋 Internship Workflow CMS  
-React • Redux • Role-Based Access  
-Custom-built system for workflow management and approval tracking.
-
----
 
 ## 📊 GitHub Stats
 
