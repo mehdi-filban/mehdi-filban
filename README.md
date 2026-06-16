@@ -23,7 +23,7 @@ I approach frontend development as engineering — balancing clean code, UX clar
 ## 🛠 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,redux,ts,js,html,css,tailwind,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,redux,ts,js,html,css,tailwind,git,bash,github,vscode" />
 </p>
 
 ---
