@@ -49,14 +49,14 @@ I enjoy turning complex UI requirements into simple, reusable and well-structure
 
 ## What I Work With
 
-* React & Next.js applications
-* Component-driven UI architecture
-* Redux / Redux Toolkit state management
-* Tailwind CSS & shadcn/ui interfaces
-* REST API and gRPC integration
-* PostgreSQL-based full-stack workflows
-* Responsive dashboards and admin panels
-* Performance optimization and clean code structure
+- React & Next.js applications
+- Component-driven UI architecture
+- Redux / Redux Toolkit / Zustand state management
+- Tailwind CSS & shadcn/ui interfaces
+- REST API and gRPC integration
+- PostgreSQL-based full-stack workflows
+- Responsive dashboards and admin panels
+- Performance optimization and clean code structure
 
 ---
 
