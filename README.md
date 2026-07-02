@@ -1,55 +1,94 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub contribution snake" />
 </p>
 
-<h1 align="center">Hi, I'm Mehdi 👋</h1>
+<h1 align="center">Hi, I'm Mehdi Filban 👋</h1>
 
 <p align="center">
-  Front-End Developer • React Engineer • Scalable UI Architecture
+  Front-End Engineer • React & Next.js Specialist • Scalable UI Systems
+</p>
+
+<p align="center">
+  I build modern web applications with a strong focus on clean architecture, performance and long-term maintainability.
+</p>
+
+<p align="center">
+  <a href="https://mehdi-filban.github.io/portfolio/">Portfolio</a> •
+  <a href="https://github.com/mehdi-filban">GitHub</a> •
+  <a href="https://linkedin.com/in/mehdi-filban">LinkedIn</a> •
+  <a href="mailto:mehdifilban.work@gmail.com">Email</a>
 </p>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-I build scalable, performance-driven web applications using React and modern JavaScript.
+I'm a Front-End Developer with 3+ years of experience building production-ready web applications.
 
-My focus goes beyond UI — I design clean component architecture, structure predictable state management (Redux Toolkit), and optimize rendering behavior to ensure long-term maintainability.
+I focus on creating clean, scalable and maintainable user interfaces using React, modern JavaScript and component-driven architecture.
+My work includes e-commerce platforms, workflow management systems, dashboards, form builders and responsive web applications.
 
-I approach frontend development as engineering — balancing clean code, UX clarity, and system scalability.
+I enjoy turning complex UI requirements into simple, reusable and well-structured frontend systems.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,redux,ts,js,html,css,tailwind,git,bash,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,ts,js,html,css,tailwind,postgres,git,github,figma,vscode" />
 </p>
 
----
+<br />
 
-## 🧠 Engineering Focus
-
-- Component-Driven Architecture  
-- Predictable State Management  
-- Performance Optimization  
-- REST API Integration  
-- Responsive & Accessible UI  
-- Scalable Front-End Systems  
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge\&logo=shadcnui\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
+![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge)
+![Responsive Design](https://img.shields.io/badge/Responsive_Design-38B2AC?style=for-the-badge)
 
 ---
 
-## 📌 Featured Projects
+## What I Work With
 
-### 🛒 ShopFlow – Modern E-Commerce UI  
-React • Redux Toolkit • Tailwind  
-🔗 Live: https://mehdi-filban.github.io/shopflow/  
-🔗 Repo: https://github.com/mehdi-filban/shopflow  
+* React & Next.js applications
+* Component-driven UI architecture
+* Redux / Redux Toolkit state management
+* Tailwind CSS & shadcn/ui interfaces
+* REST API and gRPC integration
+* PostgreSQL-based full-stack workflows
+* Responsive dashboards and admin panels
+* Performance optimization and clean code structure
 
 ---
 
+## Featured Projects
 
-## 📊 GitHub Stats
+### ShopFlow
+
+Modern e-commerce web application built with React, Redux Toolkit and Tailwind CSS.
+
+**Tech Stack:** React, Redux Toolkit, Tailwind CSS  
+**Live:** https://mehdi-filban.github.io/shopflow/  
+**Repo:** https://github.com/mehdi-filban/shopflow  
+
+---
+
+### Internship & Project Workflow CMS
+
+Custom CMS for managing internship and project workflows with role-based access and approval system.
+
+**Tech Stack:** React, Redux, Tailwind CSS  
+
+---
+
+### Portfolio Website
+
+Personal portfolio website focused on performance, responsive design and clean UI.
+
+### **Tech Stack:** React, Tailwind CSS  
+### **Live:** https://mehdi-filban.github.io/portfolio/
+---
+
+## GitHub Stats
 
 <p align="center">
   <img
@@ -65,11 +104,12 @@ React • Redux Toolkit • Tailwind
   />
 </p>
 
-
 ---
 
-## 🌍 Connect With Me
+## Contact
 
-- 🌐 Portfolio: https://mehdi-filban.github.io/portfolio/
-- 💼 LinkedIn: https://linkedin.com/in/mehdi-filban
-- 📧 Email: mehdifilban.work@gmail.com
+I'm open to frontend development opportunities, freelance projects and collaboration.
+
+* Portfolio: https://mehdi-filban.github.io/portfolio/
+* LinkedIn: https://linkedin.com/in/mehdi-filban
+* Email: [mehdifilban.work@gmail.com](mailto:mehdifilban.work@gmail.com)
